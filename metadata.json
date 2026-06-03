@@ -1,0 +1,59 @@
+{
+  "siteId": "viral-photo-spot-review",
+  "generatedAt": "2026-06-02T19:22:17.657442",
+  "categories": [
+    "beginner-viral-photo-spot-review",
+    "advanced-viral-photo-spot-review",
+    "tips-viral-photo-spot-review",
+    "history-viral-photo-spot-review",
+    "trending-viral-photo-spot-review",
+    "tutorials-viral-photo-spot-review"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-viral-photo-spot-review",
+      "category_name": "Beginner Viral Photo Spot Review"
+    },
+    {
+      "category_slug": "advanced-viral-photo-spot-review",
+      "category_name": "Advanced Viral Photo Spot Review"
+    },
+    {
+      "category_slug": "tips-viral-photo-spot-review",
+      "category_name": "Viral Photo Spot Review Tips"
+    },
+    {
+      "category_slug": "history-viral-photo-spot-review",
+      "category_name": "Viral Photo Spot Review History"
+    },
+    {
+      "category_slug": "trending-viral-photo-spot-review",
+      "category_name": "Trending Viral Photo Spot Review"
+    },
+    {
+      "category_slug": "tutorials-viral-photo-spot-review",
+      "category_name": "Viral Photo Spot Review Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "viral-photo-spot-review",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Viral Photo Spot Review Central",
+    "articles_per_row": 2
+  }
+}
